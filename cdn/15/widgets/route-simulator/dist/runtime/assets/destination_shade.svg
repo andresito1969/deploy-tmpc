@@ -1,0 +1,19 @@
+<!-- Este icono tiene una sombra alrededor suyo (se usa en el mapa)-->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="37.335" height="40.442" viewBox="0 0 37.335 40.442">
+  <defs>
+    <filter id="flag_24dp_E8EAED_FILL1_wght300_GRAD0_opsz24" x="0" y="0" width="37.335" height="40.442" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_9" data-name="Grupo 9" transform="translate(-577.934 -685.404)">
+    <rect id="Rectángulo_10" data-name="Rectángulo 10" width="26" height="26" transform="translate(584 689.782)" fill="none"/>
+    <g transform="matrix(1, 0, 0, 1, 577.93, 685.4)" filter="url(#flag_24dp_E8EAED_FILL1_wght300_GRAD0_opsz24)">
+      <path id="flag_24dp_E8EAED_FILL1_wght300_GRAD0_opsz24-2" data-name="flag_24dp_E8EAED_FILL1_wght300_GRAD0_opsz24" d="M220-757.558V-780h11.181l.552,2.762h7.6v12.43h-8.419l-.552-2.762h-8.292v10.013Z" transform="translate(-211 786)"/>
+    </g>
+    <path id="flag_24dp_E8EAED_FILL1_wght300_GRAD0_opsz24_-_Contorno" data-name="flag_24dp_E8EAED_FILL1_wght300_GRAD0_opsz24 - Contorno" d="M222.072-757.558v-10.013h8.292l.552,2.762h8.419v-12.43h-7.6L231.181-780H220v22.442h2.072m1,1H219V-781h13l.552,2.762h7.782v14.43H230.1l-.552-2.762h-6.472Z" transform="translate(366.934 1471.404)" fill="#fff"/>
+  </g>
+</svg>

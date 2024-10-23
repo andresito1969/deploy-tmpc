@@ -1,0 +1,15 @@
+export * as locationIcon from './location-pin.svg';
+export * as trashIcon from './trash.svg';
+export * as plusIcon from './plus.svg';
+export * as clockIcon from './clock.svg';
+export * as directionsIcon from './directions.svg';
+export * as euroIcon from './euro.svg';
+export * as gasStationIcon from './gas_station.svg';
+export * as printerIcon from './printer.svg';
+export * as  destinationIcon from './destination.svg'
+export * as  destinationShadeIcon from './destination_shade.svg'
+export * as  originIcon from './origin.svg'
+export * as  originShadeIcon from './origin_shade.svg'
+export * as  selectedLocationIcon from './selected_location.svg'
+export * as  waypointIcon from './waypoint.svg'
+export * as  waypointShadeIcon from './waypoint_shade.svg'

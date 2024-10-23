@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Grupo_24" data-name="Grupo 24" transform="translate(160 -374)">
+    <g id="Grupo_19" data-name="Grupo 19" transform="translate(-160 374)">
+      <rect id="Rectángulo_13" data-name="Rectángulo 13" width="24" height="24" fill="none"/>
+    </g>
+    <path id="delete_24dp_E8EAED_FILL0_wght200_GRAD0_opsz24" d="M203.261-771.108a1.942,1.942,0,0,1-1.426-.589,1.943,1.943,0,0,1-.589-1.426v-15.442H200v-1.247h4.988v-.959h7.481v.959h4.987v1.247h-1.247v15.442a1.951,1.951,0,0,1-.577,1.438,1.951,1.951,0,0,1-1.438.577Zm11.7-17.456H202.494v15.442a.748.748,0,0,0,.216.552.747.747,0,0,0,.552.216H214.2a.733.733,0,0,0,.528-.24.733.733,0,0,0,.24-.528Zm-8.968,13.716h1.247V-786.07h-1.247Zm4.22,0h1.247V-786.07h-1.247Zm-7.721-13.716v0Z" transform="translate(-356.728 1166.939)" fill="red"/>
+  </g>
+</svg>
